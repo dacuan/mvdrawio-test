@@ -1,21 +1,21 @@
 {
-  1: {
+  '1': {
     'id': '1',
-    'title': '',
+    'title': 'GIS',
     'link': 'https://wiki.mvideo.ru/pages/viewpage.action?pageId=228162480',
     'Owner': 'Иван Петров';
     'ProdDate': '24.03.2022'
   },
-  2: {
+  '2': {
     'id': '2',
-    'title': '',
+    'title': 'Speech2Text',
     'link': 'https://wiki.mvideo.ru/pages/viewpage.action?pageId=228162480',
     'Owner': 'Никита Кожемяка';
     'ProdDate': '01.12.2021'
   },
-  3: {
+  '3': {
     'id': '3',
-    'title': '',
+    'title': 'Агрегатор чатов',
     'link': 'https://wiki.mvideo.ru/pages/viewpage.action?pageId=228162480',
     'Owner': 'Алла Дроздова';
     'ProdDate': '12.05.2020'
